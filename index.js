@@ -1,3 +1,4 @@
+const cors = require('cors')
 const express = require('express')
 const app = express()
 const PORT = 8000
@@ -34,6 +35,8 @@ let hobbies = [
         hobbyType: ['academic', 'game']
     }
 ]
+
+app.use(cors())
 
 app.get('/', (req, res) => {
     res.sendFile(__dirname + '/index.html')
