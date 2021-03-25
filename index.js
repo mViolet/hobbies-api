@@ -13,7 +13,7 @@ let hobbies = [
     {
         id: 01,
         hobby: 'knitting',
-        relevantSearches: ['How to cast on', 'How to make the knit  stitch', 'How to make the purl   stitch', 'What is a LYS?'],
+        relevantSearches: ['How to cast on', 'How to make the knit stitch', 'How to make the purl stitch', 'What is a LYS?'],
         hobbyType: ['relaxing', 'craft']
     },
     {
