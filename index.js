@@ -33,6 +33,42 @@ let hobbies = [
         hobby: 'playing chess',
         relevantSearches: ['Chess playing apps', 'The basic rules of chess', 'Chess grand masters', 'Queen\'s Gambit'],
         hobbyType: ['academic', 'game']
+    },
+    {
+        id: 05,
+        hobby: 'archery',
+        relevantSearches: ['Beginner archery tips', 'What is a recurve bow?', 'How to string a recurve bow', 'How to draw a recurve bow'],
+        hobbyType: ['sport', 'athletic']
+    },
+    {
+        id: 06,
+        hobby: 'gardening',
+        relevantSearches: ['Container gardening for beginners', 'The easiest vegetables to grow', 'Heirloom vegtable seeds', 'How to plant an herb garden'],
+        hobbyType: ['outdoor', 'relaxing']
+    },
+    {
+        id: 07,
+        hobby: 'playing magic the gathering',
+        relevantSearches: ['Magic the Gathering for beginners', 'Polyhedral dice', 'How to build a basic MTG deck', 'What is a commander in MTG?'],
+        hobbyType: ['games', 'fun']
+    },
+    {
+        id: 08,
+        hobby: 'wood whittling',
+        relevantSearches: ['How to carve a wood spoon with a pocketknife', 'Simple beginner wood whittling projects', 'Burnishing wood with stones', 'Whittling pocketknife'],
+        hobbyType: ['craft', 'relaxing']
+    },
+    {
+        id: 09,
+        hobby: 'hiking',
+        relevantSearches: ['Hiking spots near me', 'How to use AllTrails', 'Hiking tips and safety', 'Hiking boots and trail runners'],
+        hobbyType: ['outdoor', 'relaxing', 'athletic']
+    },
+    {
+        id: 10,
+        hobby: 'Spinning yarn',
+        relevantSearches: ['How to use a drop Spindle', 'Roving for handspinning', 'How to ply yarn', 'Types of spindles for spinning yarn'],
+        hobbyType: ['craft', 'relaxing']
     }
 ]
 
